@@ -29,11 +29,11 @@ This work expirience is completely unrelated to this field.
 
 ### Education
 
-# Liepaja state proffesional school
+ Liepaja state proffesional school
 
  Degree - Mechatronics system technician
 
-# Riga Technical University 
+ Riga Technical University 
 
  Degree - Mechatronics system engineer (ongoing)
 
